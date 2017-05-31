@@ -2,3 +2,21 @@ body{
 	background-color:#ff0000;
 	text-align: center;
 }
+
+header img {
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px black;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+}
+
+section {
+	width: 60%;
+}
+
+aside {
+	width: 35%;
+}
