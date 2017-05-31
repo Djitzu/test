@@ -8,6 +8,15 @@ header img {
 	box-shadow: 5px 5px 5px black;
 }
 
+header nav ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+header nav li {
+	list-style-type: none;
+}
+
 main {
 	display: flex;
 	flex-direction: row;
